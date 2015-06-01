@@ -1,4 +1,4 @@
-package test;
+package solr;
 
 import org.apache.lucene.document.Document;
 
